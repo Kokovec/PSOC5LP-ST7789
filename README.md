@@ -3,7 +3,8 @@ Example of a PSOC5LP controlling an ST7789 driven display
 
 This is a PSOC5LP firmware example to control an ST7789 LCD controller.
 This is orgiinally built for th Infinion CY8CKIT-059 (https://www.mouser.com/ProductDetail/Infineon-Technologies/CY8CKIT-059?qs=PhR8RmCirEblciDRmpiVDw%3D%3D)
-The LCD display used: IPS 240x240 
+The LCD display used: IPS 240x240
+
 The code used to control the ST7789 was lifted and slightly modified from here: https://embeddedexpert.io/?p=1215
 
 The firmware will first display a file named "card.bin", and display a brief message.
